@@ -1,0 +1,15 @@
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\bin\Debug\net6.0\TDD-tp.exe
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\bin\Debug\net6.0\TDD-tp.deps.json
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\bin\Debug\net6.0\TDD-tp.runtimeconfig.json
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\bin\Debug\net6.0\TDD-tp.dll
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\bin\Debug\net6.0\TDD-tp.pdb
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\obj\Debug\net6.0\TDD-tp.csproj.AssemblyReference.cache
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\obj\Debug\net6.0\TDD-tp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\obj\Debug\net6.0\TDD-tp.AssemblyInfoInputs.cache
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\obj\Debug\net6.0\TDD-tp.AssemblyInfo.cs
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\obj\Debug\net6.0\TDD-tp.csproj.CoreCompileInputs.cache
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\obj\Debug\net6.0\TDD-tp.dll
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\obj\Debug\net6.0\refint\TDD-tp.dll
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\obj\Debug\net6.0\TDD-tp.pdb
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\obj\Debug\net6.0\TDD-tp.genruntimeconfig.cache
+D:\Faculdade\Eng Software\TDD-tp01\TDD-tp\TDD-tp\obj\Debug\net6.0\ref\TDD-tp.dll
